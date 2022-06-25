@@ -27,4 +27,4 @@
 
 ### 👇 Here are some quick stats:
 
-![Matea's github stats](https://github-readme-stats.vercel.app/api?username=mateahoward&show_icons=true&title_color=7c2986&icon_color=00d084&text_color=00d084&bg_color=151515&count_private=true) ![Matea's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateahoward&show_icons=true&title_color=7c2986&icon_color=00d084&text_color=00d084&bg_color=151515&count_private=true&layout=compact) 
+![Matea's github stats](https://github-readme-stats.vercel.app/api?username=mateahoward&show_icons=true&title_color=7c2986&icon_color=00d084&text_color=00d084&bg_color=151515&count_private=true)![Matea's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateahoward&show_icons=true&title_color=7c2986&icon_color=00d084&text_color=00d084&bg_color=151515&count_private=true&layout=compact) 
