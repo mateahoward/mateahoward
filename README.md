@@ -3,7 +3,7 @@
 
 ## 💛 About me:
 
-- <strong> 👩‍💻 I’m currently employed </strong> as a Front End Developer [Vue]. In my free time I support early career developers by teaching them new skills, collaborating on front end projects and running workshops at [Junior Developer Group](https://junior-developer-group.com/). <br>
+- <strong> 👩‍💻 I’m currently employed </strong> as a Front End Developer [Vue] and working on both websites & mobile apps. In my free time I support early career developers by teaching them new skills, collaborating on front end projects and running workshops at [Junior Developer Group](https://junior-developer-group.com/). <br>
 - <strong> 👉 You can reach me via: </strong>  <br>
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecBaQnJkTYbi5-ePoqjNhf0MWcHpq1l2k-A&usqp=CAU" width="2.5%"/>](https://www.linkedin.com/in/mateahoward/)
 [<img src="https://www.denofgeek.com/wp-content/uploads/2020/06/Discord.png?fit=1244%2C696" width="4.5%"/>](https://discord.com/invite/JdGZbZYDvd) <br>
