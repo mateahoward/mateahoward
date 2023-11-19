@@ -17,7 +17,7 @@
 [<img src="https://play-lh.googleusercontent.com/mppw5fLm0a7No2Jzcu-e2Sxq88PmtqD0Mq-_XHpgpqU622kjG5s5GF4b21CuRzVgxw=w832-h470-rw" width="100%" height="auto"></img> ](https://lupio.uk)
 
 <div align="center">
-A mobile app helping people diagnosed with Lupus gain more insight into their flair-ups
+A mobile app helping people diagnosed with Lupus gain more insight
 </div>
 <div align="center">
  🔗 https://lupio.uk
